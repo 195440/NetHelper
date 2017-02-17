@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="textsize">20dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">NetHelper</string>
+    <string name="client">TCP Client</string>
+    <string name="configClient">配置客户端</string>
+    <string name="configServer">配置服务器</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="send">发送</string>
+    <string name="server">TCP Server</string>
+    <string name="serverip">服务器ip</string>
+    <string name="serverport">服务器端口号</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="MyTheme" parent="AppBaseTheme">
+        <item name="android:background">#00ff00</item>
+        <item name="android:textColor">#ff0000</item>
+        <item name="android:textSize">@dimen/textsize</item>
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="btnTheme" parent="AppBaseTheme">
+        <item name="android:background">#00ff00</item>
+        <item name="android:textColor">#ff0000</item>
+        <item name="android:textSize">@dimen/textsize</item>
+    </style>
+</resources>

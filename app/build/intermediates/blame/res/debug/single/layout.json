@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/qiuaikun/Desktop/NetHelper/app/build/intermediates/res/merged/debug/layout/msgdetailfragment.xml",
+        "source": "/Users/qiuaikun/Desktop/NetHelper/app/src/main/res/layout/msgdetailfragment.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/NetHelper/app/build/intermediates/res/merged/debug/layout/cschoosefragment.xml",
+        "source": "/Users/qiuaikun/Desktop/NetHelper/app/src/main/res/layout/cschoosefragment.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/NetHelper/app/build/intermediates/res/merged/debug/layout/fragment_left.xml",
+        "source": "/Users/qiuaikun/Desktop/NetHelper/app/src/main/res/layout/fragment_left.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/NetHelper/app/build/intermediates/res/merged/debug/layout/activity_viewpager.xml",
+        "source": "/Users/qiuaikun/Desktop/NetHelper/app/src/main/res/layout/activity_viewpager.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/NetHelper/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/qiuaikun/Desktop/NetHelper/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/NetHelper/app/build/intermediates/res/merged/debug/layout/dialogclient.xml",
+        "source": "/Users/qiuaikun/Desktop/NetHelper/app/src/main/res/layout/dialogclient.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/NetHelper/app/build/intermediates/res/merged/debug/layout/fragment_right.xml",
+        "source": "/Users/qiuaikun/Desktop/NetHelper/app/src/main/res/layout/fragment_right.xml"
+    }
+]

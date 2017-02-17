@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:11:5-13:53
+	android:required
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:12:9-32
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:13:9-51
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:14:5-16:62
+	android:required
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:15:9-32
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:16:9-60
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:17:5-19:62
+	android:required
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:18:9-32
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:19:9-60
+uses-feature#android.hardware.wifi
+ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:20:5-58
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:20:19-55
+application
+ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:22:5-37:19
+	android:label
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:25:9-41
+	android:allowBackup
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:24:9-45
+	android:theme
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:26:9-40
+activity#example.nethelper.ViewPagerActivity
+ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:30:13-66
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:28:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/NetHelper/app/src/main/AndroidManifest.xml:34:27-74

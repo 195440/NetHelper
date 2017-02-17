@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NetHelper</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="client">TCP Client</string>
+    <string name="server">TCP Server</string>
+    <string name="send">发送</string>
+    <string name="configServer">配置服务器</string>
+    <string name="configClient">配置客户端</string>
+    <string name="serverip">服务器ip</string>
+    <string name="serverport">服务器端口号</string>
+
+</resources>
